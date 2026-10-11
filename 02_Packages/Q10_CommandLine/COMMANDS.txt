@@ -1,0 +1,10 @@
+Run these commands from inside this folder (Q10_CommandLine):
+
+1) Compile (creates college/students/*.class automatically):
+   javac -d . Student.java Main.java
+
+2) Run:
+   java college.students.Main
+
+Expected output:
+   Roll No: 1, Name: Amit Kumar
